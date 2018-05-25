@@ -20,7 +20,7 @@ if (${OpenIGTLink_PROTOCOL_VERSION} GREATER 1)
     QuaternionTrackingData
     ImageDatabaseServer
     String
-    Bind
+    Bind	Lab_PWP
     PolyData
     Capability
     Trajectory
